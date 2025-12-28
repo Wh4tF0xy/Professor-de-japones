@@ -24,9 +24,9 @@
 - Hiragana
 - Katakana
 - Kanji  
-✔ Reconhecimento de voz (Speech to Text)  
-✔ Resposta por voz (Text to Speech)  
-✔ Interface limpa e responsiva  
+- ✔ Reconhecimento de voz (Speech to Text)  
+- ✔ Resposta por voz (Text to Speech)  
+- ✔ Interface limpa e responsiva  
 
 🚫 Restrições de Uso
 - ❌ É proibido utilizar a aplicação para fins ilegais, ofensivos ou abusivos  
