@@ -3,7 +3,7 @@
 ⚠️ Projeto em desenvolvimento ⚠️
 
 ✅ Objetivo do Projeto
-O objetivo é ajudar estudantes iniciantes a:
+- O objetivo é ajudar estudantes iniciantes
 - Praticar japonês em situações reais
 - Escrever e falar em japonês
 - Receber correções claras e feedback em português
