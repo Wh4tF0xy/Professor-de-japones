@@ -16,11 +16,11 @@
 - O aprendizado acontece por conversa, passo a passo
 
 ✨ Funcionalidades
-✔ Conversa com professor focado em japonês N5  
-✔ Correção automática de frases  
-✔ Feedback em português  
-✔ Modo Exercício e Modo Livre  
-✔ Seleção de alfabeto:
+- ✔ Conversa com professor focado em japonês N5  
+- ✔ Correção automática de frases  
+- ✔ Feedback em português  
+- ✔ Modo Exercício e Modo Livre  
+- ✔ Seleção de alfabeto:
 - Hiragana
 - Katakana
 - Kanji  
@@ -29,9 +29,9 @@
 ✔ Interface limpa e responsiva  
 
 🚫 Restrições de Uso
-❌ É proibido utilizar a aplicação para fins ilegais, ofensivos ou abusivos  
-❌ O projeto é educacional e experimental  
-❌ As respostas da IA podem conter erros ocasionais  
+- ❌ É proibido utilizar a aplicação para fins ilegais, ofensivos ou abusivos  
+- ❌ O projeto é educacional e experimental  
+- ❌ As respostas da IA podem conter erros ocasionais  
 O uso da aplicação é de responsabilidade do usuário.
 
 🔐 Privacidade
@@ -48,5 +48,5 @@ O uso da aplicação é de responsabilidade do usuário.
 - **CSS puro / globals.css**
 
 ▶️ Como Rodar o Projeto Localmente
-npm install
-npm run dev
+- npm install
+- npm run dev
