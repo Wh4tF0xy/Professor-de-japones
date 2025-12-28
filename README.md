@@ -46,6 +46,7 @@ O uso da aplicação é de responsabilidade do usuário.
 - **OpenAI API**
 - **Web Speech API**
 - **CSS puro / globals.css**
+- Necessario OpenAI Api 
 
 ▶️ Como Rodar o Projeto Localmente
 - npm install
